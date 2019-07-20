@@ -123,13 +123,6 @@
                           <text value="Registrar"/>
                         </properties>
                       </component>
-                      <component id="6fba0" class="javax.swing.JButton" binding="regresarButton" default-binding="true">
-                        <constraints/>
-                        <properties>
-                          <font name="HP Simplified" size="18" style="0"/>
-                          <text value="Regresar"/>
-                        </properties>
-                      </component>
                     </children>
                   </grid>
                   <hspacer id="58f91">
