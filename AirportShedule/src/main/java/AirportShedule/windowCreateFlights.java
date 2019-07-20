@@ -166,7 +166,6 @@ public windowCreateFlights(){
     timer.schedule(Task, 1000,1000);
     //Listeners
     registrarButton.addActionListener(this);
-    regresarButton.addActionListener(this);
 
     container = getContentPane();
     container.add(windowCreateFlights);
